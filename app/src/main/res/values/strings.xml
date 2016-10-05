@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SwiggyMapDemo</string>
+
+    //Activity Titles
+    <string name="main_activity_title">SwiggyMapDemo</string>
+    <string name="main_activity">Addresses</string>
+    <string name="title_new_location_map_activity">Add Addresse</string>
+
+
+    <string name="no_saved_address_tv_text">No saved addresses</string>
+    <string name="saved_addresses_tv_text">Saved addresses</string>
+
+    <string name="add_new_add_tv_text">ADD NEW</string>
+
+    <string name="android_location_permissions_denied">You need to grant location permission to
+        auto detect you location</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="street_add_et_hint">Street / Locality *</string>
+    <string name="flat_num_add_et_hint">Building Name / Flat Number *</string>
+    <string name="landmark_add_et_hint">Landmark *</string>
+    <string name="add_type_add_et_hint">e.g Friends home</string>
+
+    <string name="address_details_tv_text">Address details</string>
+    <string name="tag_details_tv_text">Tag address as</string>
+    <string name="home_tv_text">Home</string>
+    <string name="work_tv_text">Work</string>
+    <string name="other_tv_text">Other</string>
+    <string name="save_address_btn_text">Save</string>
+
+</resources>
